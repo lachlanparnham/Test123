@@ -1,0 +1,61 @@
+<style>
+    body {
+      background-color:dbd6d6;
+      padding-left: 50px;
+    }
+
+    p1 {
+      padding-left: 100px;
+      float:left;
+      font-family: "Arial Narrow";
+      margin-top: 5px;
+      margin-bottom: 30px;
+
+    }
+
+    .top{
+      background-color: black;
+      margin-left: -50px;
+      padding-top:5px;
+      padding-bottom: 50px;
+      color: white;
+    }
+  h1 {
+    text-transform: uppercase;
+    font-family:tahoma;
+    color: white;
+    padding-left: 100px;
+}
+      p {
+        font-family:"Arial Narrow";
+        padding-right: 140px;
+}
+      h2{
+        font-family:impact;
+      }
+
+      .hotel {
+        width:700px;
+        padding-left: 50px;
+        margin-bottom: 50px;
+      }
+
+      .hotel img{
+        width:300px;
+      }
+
+
+      .left{
+        float:left ;
+        clear:left;
+      }
+
+      .hyperlink{
+        font-family: "Arial Narrow";
+        text-transform: capitalize;
+      }
+
+
+     </style>
+
+
